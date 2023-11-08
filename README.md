@@ -1,16 +1,20 @@
-### Hi there 👋
+# Bonjour,
+## Je m'appele Mélanie Fauchard
+### Je suis une formation OpenClass Rom en tant que développeur web
 
-<!--
-**MelanieDes/MelanieDes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Liste 1
+    * Item 1
+    * Item 2
+    * Item 3
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Photo de profil](https://scontent-cdg4-1.xx.fbcdn.net/v/t1.6435-9/60182780_102190427684495_8312907431881474048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=be3454&_nc_ohc=zBiEG2Q7vSsAX-oQxSI&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCOh_sQuA4tq458PpryyG3QdaueBhKNzkb_YiEGFojeWw&oe=6572C04F)
+
+<p align="center">
+  <img align="center" width="20%" src="https://scontent-cdg4-1.xx.fbcdn.net/v/t1.6435-9/60182780_102190427684495_8312907431881474048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=be3454&_nc_ohc=zBiEG2Q7vSsAX-oQxSI&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCOh_sQuA4tq458PpryyG3QdaueBhKNzkb_YiEGFojeWw&oe=6572C04F" alt="Photode profil"/>
+</p>
+
+<p align="center">
+  <img align="center" width="20%" src="https://media.giphy.com/media/xThuWlNbcmqZOyZkHe/giphy.gif"/>
+</p>
+

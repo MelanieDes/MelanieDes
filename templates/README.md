@@ -1,3 +1,5 @@
+![header](images/banniere-github.jpg)
+
 # Bonjour,
 ## Je m'appele Mélanie Fauchard
 ### Je suis une formation OpenClass Rom en tant que développeur web
@@ -18,3 +20,8 @@
   <img align="center" width="20%" src="https://media.giphy.com/media/xThuWlNbcmqZOyZkHe/giphy.gif"/>
 </p>
 
+#### 📫 How to reach me
+
+- Facebook: https://www.facebook.com/melanie.fauchard.98/
+- Instagram: https://www.instagram.com/melaniedesmarres.photographie/
+- Linkedin: https://www.linkedin.com/in/melanie-fauchard/

@@ -13,7 +13,7 @@ De plus, je suis passionnée de photographie, donc j'ai décidé de me mettre à
 * Facebook: https://www.facebook.com/melanie.fauchard.98/
 * Instagram: https://www.instagram.com/melaniedesmarres.photographie/
 * Linkedin: https://www.linkedin.com/in/melanie-fauchard/
-* Mail: ![melaniefauchard0@gmail.com](melaniefauchard0@gmail.com)
+* Mail: <a href="mailto:melaniefauchard0@gmail.com">melaniefauchard0@gmail.com</a>
 <br>
 <br>
 <br>

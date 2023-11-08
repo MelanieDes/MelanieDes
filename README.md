@@ -1,8 +1,9 @@
 ![header](images/banniere-github.jpg)
 
-# Bonjour,
-## Je m'appele Mélanie Fauchard
-### Je suis une formation OpenClass Rom en tant que développeur web
+## A propos de moi,
+### L'informatique et le web ont toujours suscité mon intérêt. . 
+#### Après avoir terminé mes études en tant que Concepteur et Réalisateur web et Digital, j'ai réussi à trouver un emploi dans une entreprise de déstockage de mobilier en Vendée pour m'occuper du site e-commerce. À ce moment précis, j'ai pris conscience que je ne suis pas en accord avec les nouvelles technologies de notre époque. Grâce à Pôle emploi, j'ai pu m'inscrire à la formation d'intégrateur web chez Openclassroom.
+De plus, je suis passionnée de photographie, donc j'ai décidé de me mettre à mon compte en micro-entreprise pour pouvoir exercer en toute confiance.
 
 #### 📫 Comment me joindre
 
@@ -12,14 +13,21 @@
     
 
 
-[Photo de profil](https://scontent-cdg4-1.xx.fbcdn.net/v/t1.6435-9/60182780_102190427684495_8312907431881474048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=be3454&_nc_ohc=zBiEG2Q7vSsAX-oQxSI&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCOh_sQuA4tq458PpryyG3QdaueBhKNzkb_YiEGFojeWw&oe=6572C04F)
+## Technologies et Langages,
 
 <p align="center">
-  <img align="center" width="20%" src="https://scontent-cdg4-1.xx.fbcdn.net/v/t1.6435-9/60182780_102190427684495_8312907431881474048_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=be3454&_nc_ohc=zBiEG2Q7vSsAX-oQxSI&_nc_ht=scontent-cdg4-1.xx&oh=00_AfCOh_sQuA4tq458PpryyG3QdaueBhKNzkb_YiEGFojeWw&oe=6572C04F" alt="Photode profil"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png" alt="Javascript"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2621/PNG/512/brand_sass_icon_157333.png" alt="Sass"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/react_icon_130845.png" alt="React"/>
+  <img align="center" width="5%" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/notion_logo_icon_145025.png" alt="Notion"/>
+  <img align="center" width="5%" src="https://icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux"/>
 </p>
 
-<p align="center">
-  <img align="center" width="20%" src="https://media.giphy.com/media/xThuWlNbcmqZOyZkHe/giphy.gif"/>
-</p>
+
+
+
+
 
 

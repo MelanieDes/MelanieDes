@@ -1,9 +1,9 @@
 ![header](images/banniere-github.jpg)
 
-## A propos de moi,
-### L'informatique et le web ont toujours suscité mon intérêt. . 
-#### Après avoir terminé mes études en tant que Concepteur et Réalisateur web et Digital, j'ai réussi à trouver un emploi dans une entreprise de déstockage de mobilier en Vendée pour m'occuper du site e-commerce. À ce moment précis, j'ai pris conscience que je ne suis pas en accord avec les nouvelles technologies de notre époque. Grâce à Pôle emploi, j'ai pu m'inscrire à la formation d'intégrateur web chez Openclassroom.
-De plus, je suis passionnée de photographie, donc j'ai décidé de me mettre à mon compte en micro-entreprise pour pouvoir exercer en toute confiance.
+<h2>A propos de moi,</h2>
+<h3>L'informatique et le web ont toujours suscité mon intérêt.</h3>
+<p>Après avoir terminé mes études en tant que Concepteur et Réalisateur web et Digital, j'ai réussi à trouver un emploi dans une entreprise de déstockage de mobilier en Vendée pour m'occuper du site e-commerce. À ce moment précis, j'ai pris conscience que je ne suis pas en accord avec les nouvelles technologies de notre époque. Grâce à Pôle emploi, j'ai pu m'inscrire à la formation d'intégrateur web chez Openclassroom.</p>
+<p>De plus, je suis passionnée de photographie, donc j'ai décidé de me mettre à mon compte en micro-entreprise pour pouvoir exercer en toute confiance.</p>
 <br>
 <br>
 <br>
